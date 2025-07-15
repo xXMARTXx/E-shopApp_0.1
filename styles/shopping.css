@@ -1,0 +1,14 @@
+#shopping {
+  padding: 5rem;
+  display: flex;
+}
+
+.card {
+  width: 30%;
+  min-width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  border: solid pink;
+  background-color: darkred;
+}
